@@ -6,7 +6,23 @@ using System.Threading.Tasks;
 
 namespace CSharp
 {
-    internal class SumOfDigits
+    class SumOfDigits
     {
+        int num = 0;
+        int sum = 0;
+        int rem = 0;
+
+        public void CheckSumOfDigits()
+        {
+            Console.WriteLine("Enter number:");
+            num = int.Parse(Console.ReadLine());
+            while (num > 0)
+            {
+                rem = num % 10;
+                sum = sum + rem;
+                num = num / 10;
+            }
+            Console.WriteLine("Sum of digits is: " + sum);
+        }
     }
 }
