@@ -34,7 +34,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSharp.ThisKeyword</StartupObject>
+    <StartupObject>
+    </StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,8 +48,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AverageOfArray.cs" />
+    <Compile Include="BubbleSort.cs" />
+    <Compile Include="InsertionSort.cs" />
     <Compile Include="InstanceLocalVar.cs" />
+    <Compile Include="MergeSort.cs" />
+    <Compile Include="Palindrome.cs" />
+    <Compile Include="PrimeNumber.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReverseExtraSpaceArray.cs" />
+    <Compile Include="ReverseInplace.cs" />
+    <Compile Include="SecondSmallestLargest.cs" />
+    <Compile Include="SelectionSort.cs" />
+    <Compile Include="StudentInfo.cs" />
+    <Compile Include="SumOfDigits.cs" />
     <Compile Include="ThisKeyword.cs" />
   </ItemGroup>
   <ItemGroup>
