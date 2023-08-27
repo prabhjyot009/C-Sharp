@@ -1,0 +1,7 @@
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\CSharp\bin\Debug\CSharp.exe.config
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\CSharp\bin\Debug\CSharp.exe
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\CSharp\bin\Debug\CSharp.pdb
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\CSharp\obj\Debug\CSharp.csproj.AssemblyReference.cache
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\CSharp\obj\Debug\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\CSharp\obj\Debug\CSharp.exe
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\CSharp\obj\Debug\CSharp.pdb
