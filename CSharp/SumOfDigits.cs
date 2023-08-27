@@ -8,21 +8,19 @@ namespace CSharp
 {
     class SumOfDigits
     {
-        int num = 0;
-        int sum = 0;
-        int rem = 0;
-
-        public void CheckSumOfDigits()
+        static void Main(string[] args)
         {
-            Console.WriteLine("Enter number:");
-            num = int.Parse(Console.ReadLine());
-            while (num > 0)
-            {
-                rem = num % 10;
-                sum = sum + rem;
-                num = num / 10;
-            }
-            Console.WriteLine("Sum of digits is: " + sum);
+            int num = 0;
+            int sum = 0;
+                Console.WriteLine("Enter number:");
+                num = int.Parse(Console.ReadLine());
+                while (num > 0)
+                {
+                    sum = sum + (num%10);
+                    num = num / 10;
+                }
+                Console.WriteLine("Sum of digits is: " + sum);
         }
+
     }
 }

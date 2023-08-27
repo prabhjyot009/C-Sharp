@@ -8,5 +8,9 @@ namespace CSharp
 {
     class BubbleSort
     {
+        static void Main(string[] args)
+        {
+
+        }
     }
 }
