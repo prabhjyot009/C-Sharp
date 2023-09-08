@@ -49,7 +49,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSharp.SecondSmallestLargest</StartupObject>
+    <StartupObject>CSharp.Fibonacci</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -64,6 +64,8 @@
   <ItemGroup>
     <Compile Include="AverageOfArray.cs" />
     <Compile Include="BubbleSort.cs" />
+    <Compile Include="Factorial.cs" />
+    <Compile Include="Fibonacci.cs" />
     <Compile Include="InsertionSort.cs" />
     <Compile Include="InstanceLocalVar.cs" />
     <Compile Include="MergeSort.cs" />
