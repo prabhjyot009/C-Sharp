@@ -49,7 +49,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSharp.Fibonacci</StartupObject>
+    <StartupObject>CSharp.Factorial</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
