@@ -11,22 +11,21 @@ namespace CSharp
         static void Main(string[] args)
         {
             int[] arr = { 1, 2, 3, 4, 5,7 };
-            int j;
-            foreach (int i in arr)
+            for (int i = 0; i < arr.Length; i++)          
             {
-                for ( j = 2; j < arr[i]; j++)
+                Boolean isprime = true;
+                for (int j = 2; j < arr[i]; j++)
                 {
                     if (arr[i]%j==0)
                     {
-                        Console.WriteLine(i + "is not prime");
-                        Console.ReadLine();
+                        isprime = false;
                         break;
                     }
-                    if (j == arr[i])
-                    {
-                        Console.WriteLine(i + " is prime");
-                        Console.ReadLine();
-                    }
+                }
+                if (isprime)
+                {
+                    Console.WriteLine(arr[i]+" are prime");
+                    Console.ReadLine();
                 }
             }
         }
