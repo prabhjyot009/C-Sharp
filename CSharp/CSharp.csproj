@@ -49,7 +49,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSharp.SortOneZeroTwos</StartupObject>
+    <StartupObject>CSharp.StringPrime</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -80,6 +80,7 @@
     <Compile Include="SecondSmallestLargest.cs" />
     <Compile Include="SelectionSort.cs" />
     <Compile Include="SortOneZeroTwos.cs" />
+    <Compile Include="StringPrime.cs" />
     <Compile Include="StudentInfo.cs" />
     <Compile Include="SumOfDigits.cs" />
     <Compile Include="ThisKeyword.cs" />
