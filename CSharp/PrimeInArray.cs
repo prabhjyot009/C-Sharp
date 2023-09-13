@@ -11,6 +11,7 @@ namespace CSharp
         static void Main(string[] args)
         {
             int[] arr = { 1, 2, 3, 4, 5,7 };
+            int count = 0;
             for (int i = 0; i < arr.Length; i++)          
             {
                 Boolean isprime = true;
@@ -24,10 +25,15 @@ namespace CSharp
                 }
                 if (isprime)
                 {
-                    Console.WriteLine(arr[i]+" are prime");
-                    Console.ReadLine();
+                    Console.Write(arr[i]+" ");
+                    Console.WriteLine();
+                    count += 1;                  
                 }
             }
+            Console.WriteLine("Number of primes in array");
+            Console.WriteLine(count);
+            Console.ReadLine();
+
         }
     }
 }
