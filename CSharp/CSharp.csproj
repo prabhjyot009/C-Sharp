@@ -49,7 +49,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSharp.StringsEqualOrNot</StartupObject>
+    <StartupObject>CSharp.TotalNumberOfAlphaNumSpecial</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -87,6 +87,7 @@
     <Compile Include="StudentInfo.cs" />
     <Compile Include="SumOfDigits.cs" />
     <Compile Include="ThisKeyword.cs" />
+    <Compile Include="TotalNumberOfAlphaNumSpecial.cs" />
     <Compile Include="WordsInString.cs" />
   </ItemGroup>
   <ItemGroup>
