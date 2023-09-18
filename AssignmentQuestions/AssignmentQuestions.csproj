@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AssignmentQuestions.SumOfNumbersInString</StartupObject>
+    <StartupObject>AssignmentQuestions.Anagram</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Anagram.cs" />
     <Compile Include="CountVovelsConsonantsSpaces.cs" />
     <Compile Include="FirstLastCharacterUpper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
