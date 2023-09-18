@@ -6,9 +6,10 @@ namespace CSharp
     {
         static void Main(string[] args)
         {
-            string str = "abacd";
+            string str = "aba";
             string reverse1 = "";
-            string rev2 = "";
+            string reverse = " ";
+            string rev2 = "";        
           /*  for (int i = str.Length-1; i >=0; i--)
             {
                 reverse += str[i];
@@ -22,15 +23,35 @@ namespace CSharp
                 Console.WriteLine("String is not palindrome");
             }*/
 
-            for(int i = 0; i < str.Length; i++)
-            {
-                reverse1 = str[i] + reverse1;
-                rev2 = rev2 + str[i];
-            }
-            Console.WriteLine(reverse1);
+            //for(int i = 0; i < str.Length; i++)
+            //{
+            //    reverse1 = str[i] + reverse1;
+            //    rev2 = rev2 + str[i];
+            //}
+            //Console.WriteLine(reverse1);
+            //Console.WriteLine(rev2);
+            //Console.ReadLine();
 
-            Console.WriteLine(rev2);
+            int i= 0;
+            int j = str.Length - 1;
+            while (i <= j)
+            {
+                if (str[i].Equals(str[j]))
+                {
+                    Console.WriteLine("String is palindrome");
+                    break;
+                    i++;
+                    j--;
+                }
+                else
+                {
+                    Console.WriteLine("String is not palindrome");
+                    break;
+                }
+
+            }
             Console.ReadLine();
+
         }
     }
 }
