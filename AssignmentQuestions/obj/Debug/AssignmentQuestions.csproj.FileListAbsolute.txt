@@ -1,0 +1,7 @@
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\AssignmentQuestions\bin\Debug\AssignmentQuestions.exe.config
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\AssignmentQuestions\bin\Debug\AssignmentQuestions.exe
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\AssignmentQuestions\bin\Debug\AssignmentQuestions.pdb
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\AssignmentQuestions\obj\Debug\AssignmentQuestions.csproj.AssemblyReference.cache
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\AssignmentQuestions\obj\Debug\AssignmentQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\AssignmentQuestions\obj\Debug\AssignmentQuestions.exe
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\AssignmentQuestions\obj\Debug\AssignmentQuestions.pdb

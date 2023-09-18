@@ -49,7 +49,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSharp.CountVovelsConsonantsSpaces</StartupObject>
+    <StartupObject>CSharpp.CountVovelsConsonantsSpaces</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
