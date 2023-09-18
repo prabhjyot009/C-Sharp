@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AssignmentQuestions.Anagram</StartupObject>
+    <StartupObject>AssignmentQuestions.LargestWord</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,6 +49,7 @@
     <Compile Include="Anagram.cs" />
     <Compile Include="CountVovelsConsonantsSpaces.cs" />
     <Compile Include="FirstLastCharacterUpper.cs" />
+    <Compile Include="LargestWord.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RemoveAllCharactersExceptAlphabets.cs" />
     <Compile Include="RemoveVovels.cs" />
