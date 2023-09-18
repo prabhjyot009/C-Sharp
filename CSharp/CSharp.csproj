@@ -49,7 +49,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSharp.PalindromeString</StartupObject>
+    <StartupObject>CSharp.CountVovelsConsonantsSpaces</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -67,6 +67,7 @@
     <Compile Include="BubbleSort.cs" />
     <Compile Include="CapitalFrontend.cs" />
     <Compile Include="CelsiusToFahrenheit.cs" />
+    <Compile Include="CountVovelsConsonantsSpaces.cs" />
     <Compile Include="Factorial.cs" />
     <Compile Include="Fibonacci.cs" />
     <Compile Include="InsertionSort.cs" />

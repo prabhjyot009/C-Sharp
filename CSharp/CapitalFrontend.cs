@@ -31,7 +31,7 @@ namespace CSharp
             {
                 StringBuilder str=new StringBuilder(item);
                 char ch = str[0];
-                
+                char target = str.Length - 1;
             }
         }
 

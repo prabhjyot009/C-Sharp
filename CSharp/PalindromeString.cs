@@ -40,8 +40,7 @@ namespace CSharp
                 {
                     Console.WriteLine("String is palindrome");
                     break;
-                    i++;
-                    j--;
+
                 }
                 else
                 {
@@ -51,7 +50,6 @@ namespace CSharp
 
             }
             Console.ReadLine();
-
         }
     }
 }
