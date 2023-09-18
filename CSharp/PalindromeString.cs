@@ -34,20 +34,22 @@ namespace CSharp
 
             int i= 0;
             int j = str.Length - 1;
+            bool isPalindrome = false;
             while (i <= j)
             {
                 if (str[i].Equals(str[j]))
                 {
-                    Console.WriteLine("String is palindrome");
-                    break;
-
-                }
-                else
-                {
-                    Console.WriteLine("String is not palindrome");
+                    isPalindrome = true;
                     break;
                 }
-
+            }
+            if (isPalindrome)
+            {
+                Console.WriteLine("String is palindrome");
+            }
+            else
+            {
+                Console.WriteLine("String is not palindrome");
             }
             Console.ReadLine();
         }
