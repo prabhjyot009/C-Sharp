@@ -24,24 +24,23 @@ namespace AssignmentQuestions
             //Console.WriteLine(sum);
             //Console.ReadLine();
             string str = "1xyz23";
-            string temp="";
+            string temp= "0";
             int sum = 0;
-            foreach (char c in str)
+            for (int i = 0; i < str.Length; i++)
             {
-                if (char.IsDigit(c))
+                char ch = str[i];
+                if (char.IsDigit(ch))
                 {
-                    temp += c;
+                    temp += ch;
                 }
                 else
                 {
-                    if (temp.Length > 0)
-                    {
-                        sum += int.Parse(temp);
-                        temp = "";
-                    }         
+                    sum += int.Parse(temp);
+                    temp = "0";
                 }
+
             }
-            Console.WriteLine(sum+=int.Parse(temp));
+            Console.WriteLine(sum + int.Parse(temp));
             Console.ReadLine();
         }
 
