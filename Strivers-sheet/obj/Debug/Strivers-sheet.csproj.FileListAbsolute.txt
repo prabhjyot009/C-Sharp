@@ -1,0 +1,7 @@
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\Strivers-sheet\bin\Debug\Strivers-sheet.exe.config
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\Strivers-sheet\bin\Debug\Strivers-sheet.exe
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\Strivers-sheet\bin\Debug\Strivers-sheet.pdb
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\Strivers-sheet\obj\Debug\Strivers-sheet.csproj.AssemblyReference.cache
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\Strivers-sheet\obj\Debug\Strivers-sheet.csproj.CoreCompileInputs.cache
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\Strivers-sheet\obj\Debug\Strivers-sheet.exe
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\Strivers-sheet\obj\Debug\Strivers-sheet.pdb
