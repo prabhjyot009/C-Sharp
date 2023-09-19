@@ -18,7 +18,6 @@ namespace Strivers_sheet
         }
         static void secondLarge(int[] arr)
         {
-            Array.Sort(arr);
             for (int i = 0; i < arr.Length; i++)
             {
                 for (int j = 0; j < arr.Length-i-1; j++)
@@ -38,7 +37,6 @@ namespace Strivers_sheet
             int[] arr = {4,5,7,8,2,1};
             Console.WriteLine("Orignal Array");
             printArray(arr);
-            Console.WriteLine("Sorted Array");
             secondLarge(arr);
         }
     }
