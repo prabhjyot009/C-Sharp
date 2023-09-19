@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Strivers_sheet.ReverseNumber</StartupObject>
+    <StartupObject>Strivers_sheet.PalindromeCheck</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CountDigits.cs" />
+    <Compile Include="PalindromeCheck.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReverseNumber.cs" />
   </ItemGroup>
