@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Strivers_sheet.LeftRotateByOneArray</StartupObject>
+    <StartupObject>Strivers_sheet.MoveZeroesToEnd</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -53,6 +53,8 @@
     <Compile Include="GCDorHCF.cs" />
     <Compile Include="LargestElementInArray.cs" />
     <Compile Include="LeftRotateByOneArray.cs" />
+    <Compile Include="LeftRotateNarray.cs" />
+    <Compile Include="MoveZeroesToEnd.cs" />
     <Compile Include="NaturalNumbersRecursion.cs" />
     <Compile Include="PalindromeCheck.cs" />
     <Compile Include="PrintNameNtimes.cs" />
