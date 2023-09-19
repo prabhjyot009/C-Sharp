@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AssignmentQuestions.PalindromeString</StartupObject>
+    <StartupObject>AssignmentQuestions.NonRepeatingCharacter</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -50,6 +50,7 @@
     <Compile Include="CountVovelsConsonantsSpaces.cs" />
     <Compile Include="FirstLastCharacterUpper.cs" />
     <Compile Include="LargestWord.cs" />
+    <Compile Include="NonRepeatingCharacter.cs" />
     <Compile Include="PalindromeString.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RemoveAllCharactersExceptAlphabets.cs" />
