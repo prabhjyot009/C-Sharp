@@ -49,7 +49,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSharp.PalindromeString</StartupObject>
+    <StartupObject>CSharp.BinarySearch</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -64,6 +64,7 @@
   <ItemGroup>
     <Compile Include="Anagarm.cs" />
     <Compile Include="AverageOfArray.cs" />
+    <Compile Include="BinarySearch.cs" />
     <Compile Include="BubbleSort.cs" />
     <Compile Include="CapitalFrontend.cs" />
     <Compile Include="CelsiusToFahrenheit.cs" />

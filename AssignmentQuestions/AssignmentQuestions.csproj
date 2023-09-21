@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AssignmentQuestions.NonRepeatingCharacter</StartupObject>
+    <StartupObject>AssignmentQuestions.Largestword</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
