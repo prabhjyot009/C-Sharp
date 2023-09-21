@@ -10,20 +10,22 @@ namespace Strivers_sheet
     {
         static void Main(string[] args)
         {
-            int[] arr = { 1, 2, 3, 4, 5 };
+            int[] arr = { 2,1, 2, 3, 4, 5 };
             int x = 2;
             Console.WriteLine(search(arr, x));
         }
         static int search(int[] arr, int x)
         {
             int start = 0;
+            int freq = 0;
             int end = arr.Length - 1;
             while (start <= end)
             {
                 int mid = start + (end - start) / 2;
                 if (arr[mid] == x)
                 {
-                    return arr[mid];
+                    freq += mid;
+                    return freq;
                 }
                 else if (x < arr[mid])
                 {
