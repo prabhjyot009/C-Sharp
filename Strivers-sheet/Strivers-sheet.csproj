@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Strivers_sheet.MoveZeroesToEnd</StartupObject>
+    <StartupObject>Strivers_sheet.SelectionSort</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -51,6 +51,7 @@
     <Compile Include="CheckPrime.cs" />
     <Compile Include="CountDigits.cs" />
     <Compile Include="GCDorHCF.cs" />
+    <Compile Include="InsertionSort.cs" />
     <Compile Include="LargestElementInArray.cs" />
     <Compile Include="LeftRotateByOneArray.cs" />
     <Compile Include="LeftRotateNarray.cs" />
@@ -62,6 +63,7 @@
     <Compile Include="RemoveDuplicatesFromArray.cs" />
     <Compile Include="ReverseNumber.cs" />
     <Compile Include="SecondLargestInArray.cs" />
+    <Compile Include="SelectionSort.cs" />
     <Compile Include="SortedOrNot.cs" />
   </ItemGroup>
   <ItemGroup>
