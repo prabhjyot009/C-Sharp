@@ -35,7 +35,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Practice_Sheet.CheckPalindrome</StartupObject>
+    <StartupObject>Practice_Sheet.StringReverse</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

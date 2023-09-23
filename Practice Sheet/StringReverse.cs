@@ -12,11 +12,17 @@ namespace Practice_Sheet
         {
             string str = "hello";
             int i = 0;
-            int j = str.Length;
-            while (i <= j)
+            int j = str.Length - 1;
+            char[] ch = str.ToCharArray();
+            while (i < j)
             {
-
+                char temp = ch[i];
+                ch[i] = ch[j];
+                ch[j] = temp;
+                i++;
+                j--;
             }
+            Console.WriteLine(ch);
         }
     }
 }
