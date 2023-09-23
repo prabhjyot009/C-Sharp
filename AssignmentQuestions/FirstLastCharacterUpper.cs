@@ -29,6 +29,5 @@ namespace AssignmentQuestions
             }
             Console.WriteLine(cap);
         }
-        static void sum
     }
 }

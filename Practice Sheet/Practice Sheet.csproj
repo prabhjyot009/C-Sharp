@@ -51,6 +51,7 @@
     <Compile Include="CheckPalindrome.cs" />
     <Compile Include="FactorsOfGivenNumber.cs" />
     <Compile Include="ReverseNumber.cs" />
+    <Compile Include="StringReverse.cs" />
     <Compile Include="SumOfNaturalNumbers.cs" />
     <Compile Include="SwappingNumbersWithoutTemp.cs" />
     <Compile Include="TempratureConvertor.cs" />
