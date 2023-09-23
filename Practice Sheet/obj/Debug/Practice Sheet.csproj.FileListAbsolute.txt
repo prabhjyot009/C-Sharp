@@ -1,0 +1,7 @@
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\Practice Sheet\bin\Debug\Practice Sheet.exe.config
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\Practice Sheet\bin\Debug\Practice Sheet.exe
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\Practice Sheet\bin\Debug\Practice Sheet.pdb
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\Practice Sheet\obj\Debug\Practice Sheet.csproj.AssemblyReference.cache
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\Practice Sheet\obj\Debug\Practice Sheet.csproj.CoreCompileInputs.cache
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\Practice Sheet\obj\Debug\Practice Sheet.exe
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\Practice Sheet\obj\Debug\Practice Sheet.pdb
