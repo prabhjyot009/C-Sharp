@@ -11,14 +11,24 @@ namespace Practice_Sheet
         static void Main(string[] args)
         {
             int n = 5;
-            int i = 1;
-            int fact = 1;
-            while (i <= n)
+            //int i = 1;
+            //int fact = 1;
+            //while (i <= n)
+            //{
+            //    fact = fact * i;
+            //    i++;
+            //}
+            //Console.WriteLine(fact);
+            Console.WriteLine(recuFact(n));            
+        }
+
+        static int recuFact(int n)
+        {
+            if (n == 0)
             {
-                fact = fact * i;
-                i++;
+                return 1;
             }
-            Console.WriteLine(fact);
+            return n*recuFact(n-1);
         }
     }
 }
