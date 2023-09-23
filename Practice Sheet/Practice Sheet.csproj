@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Practice_Sheet.TempratureConvertor</StartupObject>
+    <StartupObject>Practice_Sheet.SumOfNaturalNumbers</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="SumOfNaturalNumbers.cs" />
     <Compile Include="TempratureConvertor.cs" />
     <Compile Include="Factorial.cs" />
     <Compile Include="FibonacciSeries.cs" />
