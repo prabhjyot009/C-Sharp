@@ -35,7 +35,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Practice_Sheet.StringReverse</StartupObject>
+    <StartupObject>Practice_Sheet.PatternOne</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -50,6 +50,8 @@
   <ItemGroup>
     <Compile Include="CheckPalindrome.cs" />
     <Compile Include="FactorsOfGivenNumber.cs" />
+    <Compile Include="PalindromeString.cs" />
+    <Compile Include="PatternOne.cs" />
     <Compile Include="ReverseNumber.cs" />
     <Compile Include="StringReverse.cs" />
     <Compile Include="SumOfNaturalNumbers.cs" />
