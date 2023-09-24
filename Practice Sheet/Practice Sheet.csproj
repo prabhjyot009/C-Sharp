@@ -35,7 +35,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Practice_Sheet.PatternFive</StartupObject>
+    <StartupObject>Practice_Sheet.PatternSix</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -55,6 +55,7 @@
     <Compile Include="PatternFive.cs" />
     <Compile Include="PatternFour.cs" />
     <Compile Include="PatternOne.cs" />
+    <Compile Include="PatternSix.cs" />
     <Compile Include="PatternThree.cs" />
     <Compile Include="PatternTwo.cs" />
     <Compile Include="ReverseNumber.cs" />
