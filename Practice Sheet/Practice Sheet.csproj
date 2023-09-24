@@ -35,7 +35,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Practice_Sheet.PatternSix</StartupObject>
+    <StartupObject>Practice_Sheet.PatternSeven</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -52,9 +52,11 @@
     <Compile Include="FactorsOfGivenNumber.cs" />
     <Compile Include="FloydsTriangle.cs" />
     <Compile Include="PalindromeString.cs" />
+    <Compile Include="PatternEight.cs" />
     <Compile Include="PatternFive.cs" />
     <Compile Include="PatternFour.cs" />
     <Compile Include="PatternOne.cs" />
+    <Compile Include="PatternSeven.cs" />
     <Compile Include="PatternSix.cs" />
     <Compile Include="PatternThree.cs" />
     <Compile Include="PatternTwo.cs" />
