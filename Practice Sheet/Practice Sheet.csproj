@@ -35,7 +35,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Practice_Sheet.PatternThirteen</StartupObject>
+    <StartupObject>Practice_Sheet.DuplicatesInArray</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,6 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CheckPalindrome.cs" />
+    <Compile Include="DuplicatesInArray.cs" />
     <Compile Include="FactorsOfGivenNumber.cs" />
     <Compile Include="FloydsTriangle.cs" />
     <Compile Include="PalindromeString.cs" />
@@ -66,6 +67,7 @@
     <Compile Include="PatternTwelve.cs" />
     <Compile Include="PatternTwo.cs" />
     <Compile Include="ReverseNumber.cs" />
+    <Compile Include="SortedOrNot.cs" />
     <Compile Include="StringReverse.cs" />
     <Compile Include="SumOfNaturalNumbers.cs" />
     <Compile Include="SwappingNumbersWithoutTemp.cs" />
