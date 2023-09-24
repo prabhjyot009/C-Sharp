@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Practice_Sheet
 {
-    class PatternOne
+    class PatternTwo
     {
         static void Main(string[] args)
         {
@@ -16,7 +16,7 @@ namespace Practice_Sheet
             {
                 for(int cols = 1; cols <= rows; cols++)
                 {
-                    Console.Write(rows+" ");
+                    Console.Write(cols);
                 }
                 Console.WriteLine();
             }

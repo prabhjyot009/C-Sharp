@@ -6,17 +6,17 @@ using System.Threading.Tasks;
 
 namespace Practice_Sheet
 {
-    class PatternOne
+    class PatternFive
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Enter rows:");
             int noOfrows = Int32.Parse(Console.ReadLine());
-            for (int rows = 1; rows <= noOfrows; rows++)
+            for (int rows = noOfrows; rows >=1; rows--)
             {
-                for(int cols = 1; cols <= rows; cols++)
+                for(int cols = rows; cols <= noOfrows; cols++)
                 {
-                    Console.Write(rows+" ");
+                    Console.Write(cols);
                 }
                 Console.WriteLine();
             }
