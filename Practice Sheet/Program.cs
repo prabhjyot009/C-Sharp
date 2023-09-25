@@ -143,8 +143,27 @@ internal class Program
         //Console.WriteLine(cap);
 
 
-        Console.Write("Enter string: ");
+        Console.Write("Enter string1: ");
         string str1 = Convert.ToString(Console.ReadLine());
-        Console.WriteLine("");
+        Console.Write("Enter string2: ");
+        string str2 = Convert.ToString(Console.ReadLine());
+
+        Char[] ch1 = str1.ToCharArray();
+        Char[] ch2 = str2.ToCharArray();
+
+        Array.Sort(ch1);
+        Array.Sort(ch2);
+
+        String val1 = new String(ch1);
+        String val2 = new String(ch2);
+
+        if (val1.ToLower() == val2.ToLower())
+        {
+            Console.WriteLine("is anagram");
+        }
+        else
+        {
+            Console.WriteLine("is not anagram");
+        }
     }
 }
