@@ -53,6 +53,8 @@
     <Compile Include="DuplicatesInArray.cs" />
     <Compile Include="FactorsOfGivenNumber.cs" />
     <Compile Include="FloydsTriangle.cs" />
+    <Compile Include="InsertionSort.cs" />
+    <Compile Include="NPrime.cs" />
     <Compile Include="PalindromeString.cs" />
     <Compile Include="PatternEight.cs" />
     <Compile Include="PatternEleven.cs" />
@@ -68,9 +70,11 @@
     <Compile Include="PatternTwelve.cs" />
     <Compile Include="PatternTwo.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="RangePrime.cs" />
     <Compile Include="ReverseArrayInplace.cs" />
     <Compile Include="ReverseNumber.cs" />
     <Compile Include="SecondSmallestAndLargest.cs" />
+    <Compile Include="SelectionSort.cs" />
     <Compile Include="SortedOrNot.cs" />
     <Compile Include="StringReverse.cs" />
     <Compile Include="SumOfNaturalNumbers.cs" />

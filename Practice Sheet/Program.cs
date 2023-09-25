@@ -101,7 +101,7 @@ internal class Program
         //Console.ReadLine();
 
         //add 1xyz23;
-        
+
         //Console.Write("Enter string: ");
         //string str = Convert.ToString(Console.ReadLine());
         //string temp = "";
@@ -142,28 +142,87 @@ internal class Program
         //}
         //Console.WriteLine(cap);
 
+        //anagram:
 
-        Console.Write("Enter string1: ");
-        string str1 = Convert.ToString(Console.ReadLine());
-        Console.Write("Enter string2: ");
-        string str2 = Convert.ToString(Console.ReadLine());
+        //Console.Write("Enter string1: ");
+        //string str1 = Convert.ToString(Console.ReadLine());
+        //Console.Write("Enter string2: ");
+        //string str2 = Convert.ToString(Console.ReadLine());
 
-        Char[] ch1 = str1.ToCharArray();
-        Char[] ch2 = str2.ToCharArray();
+        //Char[] ch1 = str1.ToCharArray();
+        //Char[] ch2 = str2.ToCharArray();
 
-        Array.Sort(ch1);
-        Array.Sort(ch2);
+        //Array.Sort(ch1);
+        //Array.Sort(ch2);
 
-        String val1 = new String(ch1);
-        String val2 = new String(ch2);
+        //String val1 = new String(ch1);
+        //String val2 = new String(ch2);
 
-        if (val1.ToLower() == val2.ToLower())
-        {
-            Console.WriteLine("is anagram");
-        }
-        else
-        {
-            Console.WriteLine("is not anagram");
-        }
+        //if (val1.ToLower() == val2.ToLower())
+        //{
+        //    Console.WriteLine("is anagram");
+        //}
+        //else
+        //{
+        //    Console.WriteLine("is not anagram");
+        //}
+
+        //largest word:
+
+        //Console.Write("Enter string1: ");
+        //string str1 = Convert.ToString(Console.ReadLine());
+        //string[] word = str1.Split();
+        //string largest = "";
+        //for (int i = 0; i < word.Length; i++)
+        //{
+        //    if (word[i].Length > largest.Length)
+        //    {
+        //        largest += word[i];
+        //    }
+        //}
+        //Console.WriteLine(largest);
+
+        //Prime or not:
+        //Console.WriteLine("Enter number:");
+        //int num = Convert.ToInt32(Console.ReadLine());
+        //bool isprime = true;
+        //if (num == 0 || num == 1)
+        //{
+        //    isprime = false;
+        //}
+        //for (int i = 2; i < num; i++)
+        //{
+        //    if (num % i == 0)
+        //    {
+        //        isprime = false;             
+        //    }
+        //}
+        //if (isprime)
+        //{
+        //    Console.WriteLine("is is prime");
+        //}
+        //else
+        //{
+        //    Console.WriteLine("it is not prime");
+        //}
+
+        //fibonacci series:
+        //int p1 = 0;
+        //int p2 = 1;
+        //int p3 = 0;
+        //int n = 5;
+        //int i = 2;
+        //Console.Write(p1+" "+p2);
+        //while (i <= n)
+        //{
+        //    p3 = p1 + p2;
+        //    Console.Write(" "+p3);
+        //    p1 = p2;
+        //    p2 = p3;
+        //    i++;
+        //}
+        //Console.ReadLine();
+
+
     }
 }

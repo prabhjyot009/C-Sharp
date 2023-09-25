@@ -12,12 +12,12 @@ namespace Practice_Sheet
         {
             int fib1 = 0;
             int fib2 = 1;
+            int fib3 = 0;       
             int n = 5;
             int i = 2;
             Console.Write(fib1+" "+fib2);
             while (i <= n)
             {
-                int fib3 = 0;
                 fib3 = fib1 + fib2;
                 Console.Write(" "+fib3);
                 fib1 = fib2;

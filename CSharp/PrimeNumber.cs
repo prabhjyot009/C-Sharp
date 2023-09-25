@@ -7,13 +7,11 @@ namespace CSharp
     {
         static void Main(string[] args)
         {
-            int num = 0;
-            int i = 0;
             int flag = 0;
 
             Console.WriteLine("Enter number:");
-            num = int.Parse(Console.ReadLine());
-            for (i = 2; i <= num / 2; i++)
+            int num = int.Parse(Console.ReadLine());
+            for (int i = 2; i <= num / 2; i++)
             {
                 if (num % i == 0)
                 {
