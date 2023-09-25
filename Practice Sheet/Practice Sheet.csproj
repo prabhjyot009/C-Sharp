@@ -35,7 +35,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Practice_Sheet.ReverseArrayInplace</StartupObject>
+    <StartupObject>Practice_Sheet.AverageOfArray</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AverageOfArray.cs" />
     <Compile Include="CheckPalindrome.cs" />
     <Compile Include="DuplicatesInArray.cs" />
     <Compile Include="FactorsOfGivenNumber.cs" />
