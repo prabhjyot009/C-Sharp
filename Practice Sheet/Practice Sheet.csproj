@@ -35,7 +35,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Practice_Sheet.SecondSmallestAndLargest</StartupObject>
+    <StartupObject>Practice_Sheet.ReverseArrayInplace</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -67,6 +67,7 @@
     <Compile Include="PatternTwelve.cs" />
     <Compile Include="PatternTwo.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="ReverseArrayInplace.cs" />
     <Compile Include="ReverseNumber.cs" />
     <Compile Include="SecondSmallestAndLargest.cs" />
     <Compile Include="SortedOrNot.cs" />
