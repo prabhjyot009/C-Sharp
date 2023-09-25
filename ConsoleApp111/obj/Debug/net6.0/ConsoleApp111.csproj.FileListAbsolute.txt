@@ -1,0 +1,14 @@
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\ConsoleApp111\bin\Debug\net6.0\ConsoleApp111.exe
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\ConsoleApp111\bin\Debug\net6.0\ConsoleApp111.deps.json
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\ConsoleApp111\bin\Debug\net6.0\ConsoleApp111.runtimeconfig.json
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\ConsoleApp111\bin\Debug\net6.0\ConsoleApp111.dll
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\ConsoleApp111\bin\Debug\net6.0\ConsoleApp111.pdb
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\ConsoleApp111\obj\Debug\net6.0\ConsoleApp111.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\ConsoleApp111\obj\Debug\net6.0\ConsoleApp111.AssemblyInfoInputs.cache
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\ConsoleApp111\obj\Debug\net6.0\ConsoleApp111.AssemblyInfo.cs
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\ConsoleApp111\obj\Debug\net6.0\ConsoleApp111.csproj.CoreCompileInputs.cache
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\ConsoleApp111\obj\Debug\net6.0\ConsoleApp111.dll
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\ConsoleApp111\obj\Debug\net6.0\refint\ConsoleApp111.dll
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\ConsoleApp111\obj\Debug\net6.0\ConsoleApp111.pdb
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\ConsoleApp111\obj\Debug\net6.0\ConsoleApp111.genruntimeconfig.cache
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\ConsoleApp111\obj\Debug\net6.0\ref\ConsoleApp111.dll

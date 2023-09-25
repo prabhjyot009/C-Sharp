@@ -35,7 +35,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Practice_Sheet.DuplicatesInArray</StartupObject>
+    <StartupObject>Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -66,7 +66,9 @@
     <Compile Include="PatternThree.cs" />
     <Compile Include="PatternTwelve.cs" />
     <Compile Include="PatternTwo.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="ReverseNumber.cs" />
+    <Compile Include="SecondSmallestAndLargest.cs" />
     <Compile Include="SortedOrNot.cs" />
     <Compile Include="StringReverse.cs" />
     <Compile Include="SumOfNaturalNumbers.cs" />
