@@ -35,7 +35,18 @@ namespace Practice_Sheet
         }
         static void Main(string[] args)
         {
-            int[] arr = { 4,3,2,9,8};
+            //int[] arr = { 4,3,2,9,8};
+            //Console.Write("Given array: ");
+            //printArray(arr);
+            //secondLargeSmall(arr);
+            Console.Write("Enter size of array: ");
+            int n = Convert.ToInt32(Console.ReadLine());
+            int[] arr = new int[n];
+            Console.WriteLine("Enter elements in an array: ");
+            for (int i = 0; i < n; i++)
+            {
+                arr[i] = Convert.ToInt32(Console.ReadLine());
+            }
             Console.Write("Given array: ");
             printArray(arr);
             secondLargeSmall(arr);
