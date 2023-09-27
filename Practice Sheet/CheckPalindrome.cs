@@ -10,7 +10,7 @@ namespace Practice_Sheet
     {
         static void Main(string[] args)
         {
-            int n = 1221;
+            int n = Convert.ToInt32(Console.ReadLine());
             int rev = 0;
             int temp = n;
             while (n > 0)

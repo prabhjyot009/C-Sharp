@@ -38,5 +38,6 @@ namespace Strivers_sheet
             Console.WriteLine("New Array:");
             leftRotateOne(arr);
         }
+        static void 
     }
 }

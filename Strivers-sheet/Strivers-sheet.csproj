@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Strivers_sheet.BinarySearch</StartupObject>
+    <StartupObject>Strivers_sheet.CheckPrime</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

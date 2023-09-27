@@ -14,7 +14,7 @@ namespace CSharp
             int count = 0;
             for (int i = 0; i < arr.Length; i++)          
             {
-                Boolean isprime = true;
+                bool isprime = true;
                 for (int j = 2; j < arr[i]; j++)
                 {
                     if (arr[i]%j==0)

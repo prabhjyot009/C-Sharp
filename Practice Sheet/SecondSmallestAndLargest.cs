@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Practice_Sheet
 {
@@ -35,10 +31,6 @@ namespace Practice_Sheet
         }
         static void Main(string[] args)
         {
-            //int[] arr = { 4,3,2,9,8};
-            //Console.Write("Given array: ");
-            //printArray(arr);
-            //secondLargeSmall(arr);
             Console.Write("Enter size of array: ");
             int n = Convert.ToInt32(Console.ReadLine());
             int[] arr = new int[n];

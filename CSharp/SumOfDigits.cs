@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CSharp
 {
@@ -10,7 +6,7 @@ namespace CSharp
     {
         static void Main(string[] args)
         {
-            int num = 0;
+            int num = Convert.ToInt32(Console.ReadLine());
             int sum = 0;
                 Console.WriteLine("Enter number:");
                 num = int.Parse(Console.ReadLine());
