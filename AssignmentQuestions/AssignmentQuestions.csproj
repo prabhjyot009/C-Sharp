@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AssignmentQuestions.StringSum</StartupObject>
+    <StartupObject>AssignmentQuestions.SecondLargestNumber</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -57,6 +57,7 @@
     <Compile Include="RemoveVovels.cs" />
     <Compile Include="RemoveWhiteSpaces.cs" />
     <Compile Include="ReverseString.cs" />
+    <Compile Include="SecondLargestNumber.cs" />
     <Compile Include="StringSum.cs" />
     <Compile Include="SumOfNumbersInString.cs" />
   </ItemGroup>
