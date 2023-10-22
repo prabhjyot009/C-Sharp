@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>oopsConcepts.BoxingAndUnboxing</StartupObject>
+    <StartupObject>oopsConcepts.ParametrizedConstructor</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,7 +47,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BoxingAndUnboxing.cs" />
-    <Compile Include="Constructor.cs" />
+    <Compile Include="ConstructorProg.cs" />
+    <Compile Include="ParametrizedConstructor.cs" />
     <Compile Include="Student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
