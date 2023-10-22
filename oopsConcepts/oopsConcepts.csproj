@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>oopsConcepts.ConstructorOverloading</StartupObject>
+    <StartupObject>oopsConcepts.Static_And_Instance_Members</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -50,6 +50,7 @@
     <Compile Include="ConstructorProg.cs" />
     <Compile Include="ConstructorOverloading.cs" />
     <Compile Include="ParametrizedConstructor.cs" />
+    <Compile Include="Static_And_Instance_Members.cs" />
     <Compile Include="Student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
