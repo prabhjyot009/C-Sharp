@@ -8,6 +8,8 @@ namespace oopsConcepts
 {
     class ParametrizedConstructor
     {
+        //instance variables are unique for every
+        //different object that we create
             int EmpId;
             string EmpName;
             int EmpAge;
