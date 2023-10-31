@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AssignmentQuestions.SecondLargestNumber</StartupObject>
+    <StartupObject>AssignmentQuestions.StringSum</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

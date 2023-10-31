@@ -8,6 +8,7 @@ namespace AssignmentQuestions
         {
             string input = "1xy23";
             int sum = 0;
+            int flag = 1;
             foreach (char character in input)
             {
                 if (char.IsDigit(character))
