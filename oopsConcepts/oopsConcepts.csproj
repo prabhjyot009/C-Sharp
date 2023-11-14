@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>oopsConcepts.Static_And_Instance_Members</StartupObject>
+    <StartupObject>oopsConcepts.Static_Constructor</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,7 +49,9 @@
     <Compile Include="BoxingAndUnboxing.cs" />
     <Compile Include="ConstructorProg.cs" />
     <Compile Include="ConstructorOverloading.cs" />
+    <Compile Include="Copy Constructor.cs" />
     <Compile Include="ParametrizedConstructor.cs" />
+    <Compile Include="Static Constructor.cs" />
     <Compile Include="Static_And_Instance_Members.cs" />
     <Compile Include="Student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
