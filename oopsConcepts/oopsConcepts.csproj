@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>oopsConcepts.Copy_Constructor</StartupObject>
+    <StartupObject>oopsConcepts.Private_Constructor</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -51,6 +51,7 @@
     <Compile Include="ConstructorOverloading.cs" />
     <Compile Include="Copy Constructor.cs" />
     <Compile Include="ParametrizedConstructor.cs" />
+    <Compile Include="Private Constructor.cs" />
     <Compile Include="Static Constructor.cs" />
     <Compile Include="Static_And_Instance_Members.cs" />
     <Compile Include="Student.cs" />
