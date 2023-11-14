@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>oopsConcepts.Static_Constructor</StartupObject>
+    <StartupObject>oopsConcepts.Copy_Constructor</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
