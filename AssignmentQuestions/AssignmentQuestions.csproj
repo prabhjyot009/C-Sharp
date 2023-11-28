@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AssignmentQuestions.StringSum</StartupObject>
+    <StartupObject>Day6_7.PS17</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -53,6 +53,10 @@
     <Compile Include="NonRepeatingCharacter.cs" />
     <Compile Include="PalindromeString.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PS12.cs" />
+    <Compile Include="PS13.cs" />
+    <Compile Include="PS16.cs" />
+    <Compile Include="PS17.cs" />
     <Compile Include="RemoveAllCharactersExceptAlphabets.cs" />
     <Compile Include="RemoveVovels.cs" />
     <Compile Include="RemoveWhiteSpaces.cs" />

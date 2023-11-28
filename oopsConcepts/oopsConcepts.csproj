@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>oopsConcepts.Private_Constructor</StartupObject>
+    <StartupObject>oopsConcepts.PS16</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -52,7 +52,10 @@
     <Compile Include="Copy Constructor.cs" />
     <Compile Include="ParametrizedConstructor.cs" />
     <Compile Include="Private Constructor.cs" />
+    <Compile Include="PS12.cs" />
+    <Compile Include="PS16.cs" />
     <Compile Include="Static Constructor.cs" />
+    <Compile Include="StaticcClass.cs" />
     <Compile Include="Static_And_Instance_Members.cs" />
     <Compile Include="Student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

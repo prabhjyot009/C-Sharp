@@ -35,7 +35,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Practice_Sheet.CheckPalindrome</StartupObject>
+    <StartupObject>Practice_Sheet.PS15</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -70,6 +70,8 @@
     <Compile Include="PatternTwelve.cs" />
     <Compile Include="PatternTwo.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="PS15.cs" />
+    <Compile Include="PS16.cs" />
     <Compile Include="RangePrime.cs" />
     <Compile Include="ReverseArrayInplace.cs" />
     <Compile Include="ReverseNumber.cs" />

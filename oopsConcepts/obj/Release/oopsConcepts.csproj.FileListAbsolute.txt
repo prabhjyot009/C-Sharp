@@ -1,0 +1,7 @@
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\oopsConcepts\obj\Release\oopsConcepts.csproj.AssemblyReference.cache
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\oopsConcepts\obj\Release\oopsConcepts.csproj.CoreCompileInputs.cache
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\oopsConcepts\bin\Release\oopsConcepts.exe.config
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\oopsConcepts\bin\Release\oopsConcepts.exe
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\oopsConcepts\bin\Release\oopsConcepts.pdb
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\oopsConcepts\obj\Release\oopsConcepts.exe
+C:\Users\Prabhjyot Singh\source\repos\prabhjyot009\C-sharp\oopsConcepts\obj\Release\oopsConcepts.pdb
